@@ -5,7 +5,7 @@
 **IDE:** Visual Studio Code  
 
 ## Descripción
-Este proyecto implementa una lista doblemente enlazada circular en Java.
+Proyecto de implementación y modificación.
 
 ## Preguntas
 **1. Si tuviera que implementar una estructura tipo Cola (Queue), ¿qué tipo de lista (simple, circular, doblemente enlazada o circular doblemente enlazada) utilizaría y por qué? ¿Y para una estructura tipo Pila (Stack)?**  
